@@ -1,0 +1,50 @@
+
+/* Algemene opmaak */
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Header */
+header {
+    background-color: #2B2D42;
+    color: #8D99AE;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+/* Titel in de header */
+header h1 {
+    font-size: 80px;
+    color: #EDF2F4;
+}
+
+/* Ondertitel in de header */
+header h2 {
+    font-size: 40px;
+    color: #EDF2F4;
+}
+
+/* Education */
+.education {
+    background-color: #8D99AE;
+    padding: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #2B2D42;
+    color: #8D99AE;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+/* Titels */
+h2 {
+    font-size: 40px;
+}
+
+/* Links */
+a {
+    color: #EF233C;
+}
